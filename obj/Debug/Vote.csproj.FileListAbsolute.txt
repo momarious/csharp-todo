@@ -1,0 +1,8 @@
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\bin\Debug\Vote.exe
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\bin\Debug\Vote.pdb
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.csprojResolveAssemblyReference.cache
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.exe
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.pdb
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.MainForm.resources
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.csproj.GenerateResource.Cache
+D:\lgi\M2\programmation avancee\vote\Vote\Vote\obj\Debug\Vote.AddForm.resources
